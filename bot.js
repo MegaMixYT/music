@@ -1,7 +1,7 @@
-//const discord = require('discord.js')
-//const bot = new discord.Client()
+/*const discord = require('discord.js')
+const bot = new discord.Client()
 const prefix = "m!"
-//bot.commands = new discord.Collection()
+bot.commands = new discord.Collection()
 
 require('fs').readdir('./commands/', (err, files) => {
   if (err) return console.error("Error loading commands.");
@@ -34,3 +34,4 @@ bot.on('message', message => {
 })
 
 bot.login(process.env.token)
+*/
